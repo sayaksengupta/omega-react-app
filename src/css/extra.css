@@ -1,0 +1,15 @@
+
+@charset "UTF-8";
+.signinbuttonspecial
+{
+  display: block;
+  width: 100%;
+  background: #f54461;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 12px;
+  border: 0;
+  height: 39px;
+  margin: 20px 0 28px 0;
+}

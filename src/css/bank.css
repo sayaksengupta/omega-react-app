@@ -1,0 +1,46 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.temp_container {
+  width: 600px;
+  margin: 100px auto 0 auto;
+}
+
+.control-label {
+  color: #a0a0a0;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.bank--add__body .row {
+  margin-bottom: 1em;
+}
+.bank--add__body select,
+.bank--add__body input {
+  width: 100%;
+  border: 1px solid #e0e0e0;
+  background: none;
+  height: 3em;
+  color: #a0a0a0;
+  outline: 0;
+  padding: 0.5em;
+}
+.bank--add__body .show__account--number {
+  font-size: 14px;
+  color: #a0a0a0;
+  padding: 0.5em;
+  display: block;
+  float: right;
+  margin-top: -52px;
+}
+
+.space-left {
+  margin-left: 1em;
+}
+
+.text--align__center {
+  text-align: center;
+}

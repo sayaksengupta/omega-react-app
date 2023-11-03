@@ -1,0 +1,64 @@
+Downloaded by "Download All Images" extension
+
+Page: http://omega.5gsoftware.net/home
+Date: 7/5/2023, 11:08:44 PM
+
+Name, Link
+----------
+logomain.png, http://omega.5gsoftware.net/assets/img/logomain.png
+ribbon_red_top.png, http://omega.5gsoftware.net/assets/img/ribbon_red_top.png
+bannersmall01.jpg, http://omega.5gsoftware.net/assets/img/bannersmall01.jpg
+bannersmall02.jpg, http://omega.5gsoftware.net/assets/img/bannersmall02.jpg
+bannersmall03.jpg, http://omega.5gsoftware.net/assets/img/bannersmall03.jpg
+bannersmall04.jpg, http://omega.5gsoftware.net/assets/img/bannersmall04.jpg
+bannersmall05.jpg, http://omega.5gsoftware.net/assets/img/bannersmall05.jpg
+bannersmall06.jpg, http://omega.5gsoftware.net/assets/img/bannersmall06.jpg
+bannersmall07.jpg, http://omega.5gsoftware.net/assets/img/bannersmall07.jpg
+bannersmall08.jpg, http://omega.5gsoftware.net/assets/img/bannersmall08.jpg
+bannersmall09.jpg, http://omega.5gsoftware.net/assets/img/bannersmall09.jpg
+bannersmall10.jpg, http://omega.5gsoftware.net/assets/img/bannersmall10.jpg
+bannersmall11.jpg, http://omega.5gsoftware.net/assets/img/bannersmall11.jpg
+bannersmall12.jpg, http://omega.5gsoftware.net/assets/img/bannersmall12.jpg
+bannersmall13.jpg, http://omega.5gsoftware.net/assets/img/bannersmall13.jpg
+bannersmall14.jpg, http://omega.5gsoftware.net/assets/img/bannersmall14.jpg
+bannersmall15.jpg, http://omega.5gsoftware.net/assets/img/bannersmall15.jpg
+bannersmall16.jpg, http://omega.5gsoftware.net/assets/img/bannersmall16.jpg
+bannersmall17.jpg, http://omega.5gsoftware.net/assets/img/bannersmall17.jpg
+bannersmall18.jpg, http://omega.5gsoftware.net/assets/img/bannersmall18.jpg
+inador.jpg, http://omega.5gsoftware.net/assets/img/inador.jpg
+aboutsignal.jpg, http://omega.5gsoftware.net/assets/img/aboutsignal.jpg
+omegabox01.png, http://omega.5gsoftware.net/assets/img/omegabox01.png
+omegabox02.png, http://omega.5gsoftware.net/assets/img/omegabox02.png
+omegabox03.png, http://omega.5gsoftware.net/assets/img/omegabox03.png
+omegaline.png, http://omega.5gsoftware.net/assets/img/omegaline.png
+useomega01.png, http://omega.5gsoftware.net/assets/img/useomega01.png
+useomega02.png, http://omega.5gsoftware.net/assets/img/useomega02.png
+useomega03.png, http://omega.5gsoftware.net/assets/img/useomega03.png
+useomega04.png, http://omega.5gsoftware.net/assets/img/useomega04.png
+useomega05.png, http://omega.5gsoftware.net/assets/img/useomega05.png
+useomega06.png, http://omega.5gsoftware.net/assets/img/useomega06.png
+stock_inf.jpg, http://omega.5gsoftware.net/assets/img/stock_inf.jpg
+crypto_inf.jpg, http://omega.5gsoftware.net/assets/img/crypto_inf.jpg
+nft_inf.jpg, http://omega.5gsoftware.net/assets/img/nft_inf.jpg
+advisor.jpg, http://omega.5gsoftware.net/assets/img/advisor.jpg
+stockcryptovid01.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid01.jpg
+stockcryptovid02.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid02.jpg
+stockcryptovid03.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid03.jpg
+stockcryptovid04.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid04.jpg
+stockcryptovid05.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid05.jpg
+stockcryptovid06.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid06.jpg
+stockcryptovid07.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid07.jpg
+stockcryptovid08.jpg, http://omega.5gsoftware.net/assets/img/stockcryptovid08.jpg
+logofooter.png, http://omega.5gsoftware.net/assets/img/logofooter.png
+close-icon.svg, http://omega.5gsoftware.net/assets/img/close-icon.svg
+googlelogin.png, http://omega.5gsoftware.net/assets/img/googlelogin.png
+applelogin.png, http://omega.5gsoftware.net/assets/img/applelogin.png
+facebooklogin.png, http://omega.5gsoftware.net/assets/img/facebooklogin.png
+image.svg, data:image/svg+xml;charset=utf-8,%3Csvg%20class%3D%22svg-inline--fa%20fa-magnifying-glass%22%20aria-hidden%3D%22true%22%20focusable%3D%22false%22%20data-prefix%3D%22fas%22%20data-icon%3D%22magnifying-glass%22%20role%3D%22img%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20data-fa-i2svg%3D%22%22%3E%3Cpath%20fill%3D%22currentColor%22%20d%3D%22M500.3%20443.7l-119.7-119.7c27.22-40.41%2040.65-90.9%2033.46-144.7C401.8%2087.79%20326.8%2013.32%20235.2%201.723C99.01-15.51-15.51%2099.01%201.724%20235.2c11.6%2091.64%2086.08%20166.7%20177.6%20178.9c53.8%207.189%20104.3-6.236%20144.7-33.46l119.7%20119.7c15.62%2015.62%2040.95%2015.62%2056.57%200C515.9%20484.7%20515.9%20459.3%20500.3%20443.7zM79.1%20208c0-70.58%2057.42-128%20128-128s128%2057.42%20128%20128c0%2070.58-57.42%20128-128%20128S79.1%20278.6%2079.1%20208z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E
+image.svg, data:image/svg+xml;charset=utf-8,%3Csvg%20class%3D%22svg-inline--fa%20fa-bars%20ms-1%22%20aria-hidden%3D%22true%22%20focusable%3D%22false%22%20data-prefix%3D%22fas%22%20data-icon%3D%22bars%22%20role%3D%22img%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20448%20512%22%20data-fa-i2svg%3D%22%22%3E%3Cpath%20fill%3D%22currentColor%22%20d%3D%22M0%2096C0%2078.33%2014.33%2064%2032%2064H416C433.7%2064%20448%2078.33%20448%2096C448%20113.7%20433.7%20128%20416%20128H32C14.33%20128%200%20113.7%200%2096zM0%20256C0%20238.3%2014.33%20224%2032%20224H416C433.7%20224%20448%20238.3%20448%20256C448%20273.7%20433.7%20288%20416%20288H32C14.33%20288%200%20273.7%200%20256zM416%20448H32C14.33%20448%200%20433.7%200%20416C0%20398.3%2014.33%20384%2032%20384H416C433.7%20384%20448%20398.3%20448%20416C448%20433.7%20433.7%20448%20416%20448z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E
+image.svg, data:image/svg+xml;charset=utf-8,%3Csvg%20class%3D%22svg-inline--fa%20fa-phone%22%20aria-hidden%3D%22true%22%20focusable%3D%22false%22%20data-prefix%3D%22fas%22%20data-icon%3D%22phone%22%20role%3D%22img%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20data-fa-i2svg%3D%22%22%3E%3Cpath%20fill%3D%22currentColor%22%20d%3D%22M511.2%20387l-23.25%20100.8c-3.266%2014.25-15.79%2024.22-30.46%2024.22C205.2%20512%200%20306.8%200%2054.5c0-14.66%209.969-27.2%2024.22-30.45l100.8-23.25C139.7-2.602%20154.7%205.018%20160.8%2018.92l46.52%20108.5c5.438%2012.78%201.77%2027.67-8.98%2036.45L144.5%20207.1c33.98%2069.22%2090.26%20125.5%20159.5%20159.5l44.08-53.8c8.688-10.78%2023.69-14.51%2036.47-8.975l108.5%2046.51C506.1%20357.2%20514.6%20372.4%20511.2%20387z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E
+image.svg, data:image/svg+xml;charset=utf-8,%3Csvg%20class%3D%22svg-inline--fa%20fa-envelope%22%20aria-hidden%3D%22true%22%20focusable%3D%22false%22%20data-prefix%3D%22fas%22%20data-icon%3D%22envelope%22%20role%3D%22img%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20data-fa-i2svg%3D%22%22%3E%3Cpath%20fill%3D%22currentColor%22%20d%3D%22M464%2064C490.5%2064%20512%2085.49%20512%20112C512%20127.1%20504.9%20141.3%20492.8%20150.4L275.2%20313.6C263.8%20322.1%20248.2%20322.1%20236.8%20313.6L19.2%20150.4C7.113%20141.3%200%20127.1%200%20112C0%2085.49%2021.49%2064%2048%2064H464zM217.6%20339.2C240.4%20356.3%20271.6%20356.3%20294.4%20339.2L512%20176V384C512%20419.3%20483.3%20448%20448%20448H64C28.65%20448%200%20419.3%200%20384V176L217.6%20339.2z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E
+image.svg, data:image/svg+xml;charset=utf-8,%3Csvg%20class%3D%22svg-inline--fa%20fa-copyright%22%20aria-hidden%3D%22true%22%20focusable%3D%22false%22%20data-prefix%3D%22fas%22%20data-icon%3D%22copyright%22%20role%3D%22img%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20data-fa-i2svg%3D%22%22%3E%3Cpath%20fill%3D%22currentColor%22%20d%3D%22M256%200C114.6%200%200%20114.6%200%20256s114.6%20256%20256%20256s256-114.6%20256-256S397.4%200%20256%200zM199.2%20312.6c14.94%2015.06%2034.8%2023.38%2055.89%2023.38c.0313%200%200%200%200%200c21.06%200%2040.92-8.312%2055.83-23.38c9.375-9.375%2024.53-9.469%2033.97-.1562c9.406%209.344%209.469%2024.53%20.1562%2033.97c-24%2024.22-55.95%2037.56-89.95%2037.56c0%200%20.0313%200%200%200c-33.97%200-65.95-13.34-89.95-37.56c-49.44-49.88-49.44-131%200-180.9c24-24.22%2055.98-37.56%2089.95-37.56c.0313%200%200%200%200%200c34%200%2065.95%2013.34%2089.95%2037.56c9.312%209.438%209.25%2024.62-.1562%2033.97c-9.438%209.344-24.59%209.188-33.97-.1562c-14.91-15.06-34.77-23.38-55.83-23.38c0%200%20.0313%200%200%200c-21.09%200-40.95%208.312-55.89%2023.38C168.3%20230.6%20168.3%20281.4%20199.2%20312.6z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E
+omegabg.jpg, http://omega.5gsoftware.net/assets/img/omegabg.jpg
+useomega_bg.png, http://omega.5gsoftware.net/assets/img/useomega_bg.png
+favicon.ico, http://omega.5gsoftware.net/assets/favicon.ico
